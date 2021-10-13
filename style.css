@@ -10,7 +10,7 @@ h2 {
 }
 p{
     /*  buat mewarnai kata */
-    color: red;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     /* buat mengatur format paragraf/text */
@@ -23,11 +23,10 @@ label{
     font-size: 20px;
     
 }
-body {background-color: aqua;
-     background-image: url(:C\ Users\ firdaus\ Music\ menara.jpeg);
-     /*background-repeat:no-repeat; */
+body {/*background-color: aqua;*/
+     background: url(menara.jpeg) no-repeat;
      /*background-position: bottom center;*/
-     background-size: 100%;
+     background-size: cover;
 }
 label:last-of-type{
     color: blue
