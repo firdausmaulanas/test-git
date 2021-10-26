@@ -11,7 +11,7 @@ h2 {
 p{
     /*  buat mewarnai kata */
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: 15px;
     /* buat mengatur format paragraf/text */
     text-align: left;
