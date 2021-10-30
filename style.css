@@ -1,5 +1,5 @@
  .header{
-        height: 50%;
+        height: 200%;
         width: 50%;
         background-color: aqua;
         color: blue;
@@ -8,12 +8,16 @@
  }
  p{
     /*  buat mewarnai kata */
-    color: black;
+    color: white;
     font-family: Arial;
     font-size: 15px;
     /* buat mengatur format paragraf/text */
     text-align: left;
     text-transform: capitalize;
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    overflow: auto;
 }
 label{
     color: white;
