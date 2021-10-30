@@ -1,14 +1,12 @@
-h1 {
-    color: blue;
-    font: 20px;
-    font-family: Arial;
-}
-h2 {
-    color: blueviolet;
-    font-size: 15px;
-    font-family: arial ;
-}
-p{
+ .header{
+        height: 50%;
+        width: 50%;
+        background-color: aqua;
+        color: blue;
+        font: 20px;
+        font-family: Arial;
+ }
+ p{
     /*  buat mewarnai kata */
     color: black;
     font-family: Arial;
